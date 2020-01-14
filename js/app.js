@@ -117,6 +117,7 @@ onTrackingLoad = function (e) { console.log('Tracking loaded'); };
 
 $(document).ready(function(){
     var currentWeek = 1;
+    consle.log(dateParts);
     var dateParts = $('#SysInfo').text().split(' ')[2].split('/');
     //console.log(dateParts,((dateParts[0] < 10)? '0'+dateParts[0]:dateParts[0] )+'/'+((dateParts[1] < 10)? '0'+dateParts[1]:dateParts[1] )+'/'+dateParts[2]);
     var today = new Date(((dateParts[0] < 10)? '0'+dateParts[0]:dateParts[0] )+'/'+((dateParts[1] < 10)? '0'+dateParts[1]:dateParts[1] )+'/'+dateParts[2]);
