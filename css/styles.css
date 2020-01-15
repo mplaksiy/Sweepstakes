@@ -52,8 +52,8 @@ sup{font-size:60%;top:-4px;position:relative}
 .trm-wrapper{border-bottom:1px solid #888}
 .trm-top{background:#413b60;padding:8px 0}
 .trm-container{max-width:100%;width:1262px;margin:0 auto;overflow:hidden}
-.trm-bbb-logo{width:50%}
-/*.trm-registry-logo{text-align: right;}*/
+.trm-bbb-logo,.trm-registry-logo{width:50%}
+.trm-registry-logo{text-align:right}
 .trm-arrow{margin-right:15px;display:inline-block;height:12px;position:relative;width:12px;transform:rotate(135deg)}
 .trm-arrow::before{bottom:1px;content:'';height:20px;position:absolute;right:0;transform-origin:bottom;-moz-transform:rotate(-45deg);-ms-transform:rotate(-45deg);-webkit-transform:rotate(-45deg);transform:rotate(-45deg);border:1px solid #fff;border-color:#fff}
 .trm-arrow::after{border-bottom-style:solid;border-bottom-width:2px;border-right-style:solid;border-right-width:2px;content:'';display:inline-block;height:10px;left:0;position:absolute;top:0;width:10px;border-color:#fff}
@@ -144,11 +144,11 @@ sup{font-size:60%;top:-4px;position:relative}
     min-height: 30px;
 }
 }
-@media (max-width: 680px) {
+/* @media (max-width: 680px) {
 .trm-container{padding:0 5px}
 .trm-return{font-size:2.5vw}
 .trm-pov-content .trm-section-title{padding:0 10px}
-.trm-pov-img .trm-week{font-size:2vw;    padding: 20px 9px 2px 20px;}
+.trm-pov-img .trm-week{font-size:2vw;    padding: 20px 9px 2px 0px;}
 .trm-pov-img .trm-week span{font-size:5vw}
 .trm-section-title h2{font-size:3vw}
 .trm-section-title p{font-size:1.8vw}
@@ -159,8 +159,8 @@ sup{font-size:60%;top:-4px;position:relative}
 .trm-icon{font-size:3.2vw}
 .trm-brand .trm-week{font-size:1.7vw}
 .trm-week span{font-size:2.7vw}
-}
-@media (max-width: 400px) {
+} */
+@media (max-width: 680px) {
 .trm-desk{display:none!important}
 .trm-mob{display:inline-block!important}
 .trm-container{padding:0 20px}
@@ -168,6 +168,7 @@ sup{font-size:60%;top:-4px;position:relative}
 .trm-mob{display:inline-block}
 .trm-mod{display:inline-block;margin:0 auto}
 .trm-pov-wrapper{padding-top:20px}
+.trm-pov-img img{width: 100%;}
 .trm-pov-container{background:transparent;display:inline-block;margin:0 auto}
 .trm-pov-img .trm-week{font-size:4vw;    padding: 30px 9px 2px 30px;}
 .trm-pov-img .trm-week span{font-size:7vw}
