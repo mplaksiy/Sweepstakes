@@ -163,7 +163,7 @@ sup{font-size:60%;top:-4px;position:relative}
 @media (max-width: 767px) {
 .trm-return{font-size:2.2vw}
 .trm-arrow::after{height:9px;width:9px}
-.trm-arrow::before{height:18px}
+/*.trm-arrow::before{height:18px}*/
 .trm-header{padding:20px 0}
 .trm-pov-content .trm-section-title{padding:0 25px}
 .trm-pov-img .trm-week span{font-size:4.8vw}
