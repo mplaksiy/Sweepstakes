@@ -16,7 +16,7 @@ var Tracking = (function () {
         tagSeperator: ':',
         seperator: '>',
         trackingProvider: 'GA',
-        tagSpaceChar : '_',
+        tagSpaceChar : '',
         targets: [
             { target: '.trm-track', event: 'click' },
             { target: '.trm-track-hover', event: 'mouseover' },

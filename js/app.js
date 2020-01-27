@@ -130,12 +130,12 @@ $(document).ready(function(){
     if(getUrlParameter('guid')){
         guid = getUrlParameter('guid');
     }
-    //console.log('today',today);
-    //console.log(weeks);
+    console.log('today',today);
+    console.log(weeks);
     for(var i in weeks){
         if(guid){
             if(guid === weeks[i].guid){
-                //console.log('Its week' + weeks[i].num);
+                console.log('Its week' + weeks[i].num);
                 currentWeek = weeks[i].num;
                 $('.pov-img').attr('src', '/BrandPages/buybuybaby/2019/RegistrySweeps/img/Desktop/'+weeks[i].img);
                 $('.pov-img').attr('alt', weeks[i].alt);

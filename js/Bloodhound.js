@@ -17,7 +17,7 @@ var Bloodhound = (function () {
         seperator: '>',
         trackingProvider: 'GA',
         replaceSpaces : true,
-        tagSpaceChar : '_',
+        tagSpaceChar : '',
         targets: [
             { target: '.trm-track', event: 'click' }
         ],
