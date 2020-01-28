@@ -200,7 +200,7 @@ sup{font-size:60%;top:-4px;position:relative}
 .trm-pov-img{overflow: hidden;margin-top: 10px;}
 .trm-pov-img img{width: 100%;}
 .trm-pov-container{background:transparent;display:inline-block;margin:0 auto}
-.trm-pov-img .trm-week {right: -3%;bottom: -3.5%;}
+.trm-pov-img .trm-week {right: -3%;bottom: -3.5%;padding: 4% 0 0 4%;}
 .trm-pov-img .trm-week h4{font-size:2.5vw;}
 .trm-pov-img .trm-week span{font-size:7vw}
 .trm-pov-img,.trm-pov-content,.trm-content-left,.trm-content-right{width:100%}
