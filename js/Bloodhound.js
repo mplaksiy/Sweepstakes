@@ -18,6 +18,7 @@ var Bloodhound = (function () {
         trackingProvider: 'GA',
         replaceSpaces : true,
         tagSpaceChar : '',
+        isCoded:false,
         targets: [
             { target: '.trm-track', event: 'click' }
         ],
@@ -134,10 +135,12 @@ var Bloodhound = (function () {
 
                     var converge = (typeof refreshConverge !== 'undefined') ? refreshConverge : opts.convergeId;
                     brandName = (typeof brandName !== 'undefined') ? brandName : opts.brandName;
+                    var temp = isCoded ? cta :app.priv.fixString(cta)
 
-                    var tag = opts.owner + opts.tagSeperator + opts.pageId + opts.tagSeperator + converge + opts.tagSeperator + brandName + opts.tagSeperator + sectionDescription + opts.tagSeperator + interactionType + opts.tagSeperator + sectionId + opts.tagSeperator + app.priv.fixString(cta);
+                    var tag = opts.owner + opts.tagSeperator + opts.pageId + opts.tagSeperator + converge + opts.tagSeperator + brandName + opts.tagSeperator + sectionDescription + opts.tagSeperator + interactionType + opts.tagSeperator + sectionId + opts.tagSeperator + temp;
                     //app.priv.debug('Generated tag: ' + tag, 'buildTag');
                     //app.priv.debug('End Building tag and return ', 'buildTag');
+                    //console.log(isCoded,tag);
                     return tag;
                     
                     //return settings.device + opts.tagSeperator + settings.page + opts.tagSeperator + objectType + opts.tagSeperator + app.priv.fixString(label);
@@ -193,8 +196,14 @@ var Bloodhound = (function () {
                         converge = item.getAttribute('data-refreshid')  ? item.getAttribute('data-refreshid') : opts.convergeId;
                         brandName = item.getAttribute('data-brandname') ? item.getAttribute('data-brandname') : opts.brandName;
                     var cta = '';
+                    //console.log(item);
+                    isCoded = false;
                     
-                    if (item.textContent.trim() !== '') {
+                    if(item.getAttribute('data-name') != ""){
+                        isCoded=true;
+                        cta = item.getAttribute('data-name');
+                    }
+                    else if (item.textContent.trim() !== '') {
                         cta = app.priv.fixString(item.textContent);
                     } else if (app.priv.hasElem(item, 'img')) {
                         // TEST FOR IMAGE AND ALT
@@ -241,6 +250,7 @@ var Bloodhound = (function () {
                     return splitStr.join(' ');
                 },
                 fixString: function (str) { 
+                    console.log(str);
                     var newStr = app.priv.titleCase(str);
                     var new_str = '';
                     if(opts.replaceSpaces){
