@@ -107,7 +107,7 @@
                     },
                     "lifeStlye":{
                         "headline":"Week 3: Maxi-Cosi<sup>&reg;</sup>",
-                        "period":"Feb. 12 – Feb. 8, 2020",
+                        "period":"Feb. 12 – Feb. 18, 2020",
                         "paragraph":"Maxi-Cosi<sup>&reg;</sup> strollers, car seats, and travel systems are fully equipped for all that parenthood has in store! Our products' superior comfort and safety features make your tiny traveler's first ride first class.",
                         "imageAlt":" A family of four happily walks on the airplane runway, pushing their infant in a Maxi-Cosi stroller."
                     },
