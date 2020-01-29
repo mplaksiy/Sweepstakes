@@ -51,7 +51,7 @@ sup{font-size:60%;top:-4px;position:relative}
 .trm-mob{display:none!important}
 .trm-wrapper{border-bottom:1px solid #888}
 .trm-top{background:#413b60;padding:8px 0}
-.trm-container{max-width:100%;width:1262px;margin:0 auto;overflow:hidden}
+.trm-container{max-width:1262px;width:100%;margin:0 auto;overflow:hidden}
 .trm-bbb-logo,.trm-registry-logo{width:50%}
 .trm-registry-logo{text-align:right}
 .trm-arrow{margin-right:15px;display:inline-block;height:12px;position:relative;width:22px;}
@@ -73,7 +73,7 @@ sup{font-size:60%;top:-4px;position:relative}
     right: -25px;
     bottom: -25px;
     background: #fee79a;
-    padding: 5% 0 0 5%;
+    padding: 5% 0 0 4%;
     text-align: center;
     border-radius: 50%;
     width: 18.4%;
