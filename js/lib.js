@@ -28,19 +28,23 @@
                     "qualifying_products":{
                         "product01":{
                             "name":"New! BABYBJÖRN Baby Carrier Free in Anthracite",
-                            "link":"https://www.buybuybaby.com/store/product/babybj-ouml-rn-reg-baby-carrier-free/5431820?keyword=69325953&color=ANTHRACITE&skuId=69325953"
+                            "link":"https://www.buybuybaby.com/store/product/babybj-ouml-rn-reg-baby-carrier-free/5431820?keyword=69325953&color=ANTHRACITE&skuId=69325953",
+                            "metricsTag":"New! BABYBJÖRN Baby Carrier Free in Anthracite"
                         },
                         "product02":{
                             "name":"New! BABYBJÖRN Baby Carrier Free in Gray",
-                            "link":"https://www.buybuybaby.com/store/product/babybj-ouml-rn-reg-baby-carrier-free/5431820?keyword=69325953&color=SILVER&skuId=69325977"
+                            "link":"https://www.buybuybaby.com/store/product/babybj-ouml-rn-reg-baby-carrier-free/5431820?keyword=69325953&color=SILVER&skuId=69325977",
+                            "metricsTag":"New! BABYBJÖRN Baby Carrier Free in Gray"
                         },
                         "product03":{
                             "name":"New! BABYBJÖRN Baby Carrier Free in Sage Green (Online Only)",
-                            "link":"https://www.buybuybaby.com/store/product/babybj-ouml-rn-reg-baby-carrier-free/5431820?keyword=69325953&color=SAGE%20GREEN&skuId=69325991"
+                            "link":"https://www.buybuybaby.com/store/product/babybj-ouml-rn-reg-baby-carrier-free/5431820?keyword=69325953&color=SAGE%20GREEN&skuId=69325991",
+                            "metricsTag":"New! BABYBJÖRN Baby Carrier Free in Sage Green (Online Only)"
                         },
                         "product04":{
                             "name":"BABYBJÖRN Multi-Position Baby Carrier One Air in Black",
-                            "link":"https://www.buybuybaby.com/store/product/babybj-ouml-rn-reg-2019-multi-position-baby-carrier-one-air/5243650?keyword=66212263"
+                            "link":"https://www.buybuybaby.com/store/product/babybj-ouml-rn-reg-2019-multi-position-baby-carrier-one-air/5243650?keyword=66212263",
+                            "metricsTag":"BABYBJÖRN Multi-Position Baby Carrier One Air in Black"
                         }                        
 
                     }
@@ -71,19 +75,23 @@
                     "qualifying_products":{
                         "product01":{
                             "name":"Aurora 5-in-1 Convertible Crib",
-                            "link":"https://www.buybuybaby.com/store/product/evolur-trade-aurora-5-in-1-convertible-crib/5261542"
+                            "link":"https://www.buybuybaby.com/store/product/evolur-trade-aurora-5-in-1-convertible-crib/5261542",
+                            "metricsTag":"Aurora 5-in-1 Convertible Crib"
                         },
                         "product02":{
                             "name":"Julienne 5-in-1 Convertible Crib in Antique Grey Mist",
-                            "link":"https://www.buybuybaby.com/store/product/julienne-5-in-1-convertible-crib-in-antique-grey-mist/3346426"
+                            "link":"https://www.buybuybaby.com/store/product/julienne-5-in-1-convertible-crib-in-antique-grey-mist/3346426",
+                            "metricsTag":"Julienne 5-in-1 Convertible Crib in Antique Grey Mist"
                         },
                         "product03":{
                             "name":"Belmar 5-in-1 Convertible Curved Top Crib in Weathered White",
-                            "link":"https://www.buybuybaby.com/store/product/santa-fe-5-in-1-convertible-crib/5204428"
+                            "link":"https://www.buybuybaby.com/store/product/santa-fe-5-in-1-convertible-crib/5204428",
+                            "metricsTag":"Belmar 5-in-1 Convertible Curved Top Crib in Weathered White"
                         },
                         "product04":{
                             "name":"Santa Fe 5-in-1 Convertible Crib",
-                            "link":"https://www.buybuybaby.com/store/product/santa-fe-5-in-1-convertible-crib/5204428"
+                            "link":"https://www.buybuybaby.com/store/product/santa-fe-5-in-1-convertible-crib/5204428",
+                            "metricsTag":"Santa Fe 5-in-1 Convertible Crib"
                         }                        
 
                     }
@@ -114,19 +122,23 @@
                     "qualifying_products":{
                         "product01":{
                             "name":"Maxi-Cosi<sup>&reg;</sup> Lila Modular Stroller in Nomad Black",
-                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lila-modular-stroller/5283447?keyword=66999126&color=NOMAD%20BLACK&skuId=66999126"
+                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lila-modular-stroller/5283447?keyword=66999126&color=NOMAD%20BLACK&skuId=66999126",
+                            "metricsTag":"Maxi-Cosi Lila Modular Stroller in Nomad Black"
                         },
                         "product02":{
                             "name":"Maxi-Cosi<sup>&reg;</sup> Lila Modular Stroller in Nomad Grey",
-                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lila-modular-stroller/5283447?keyword=66999140&color=NOMAD%20GREY&skuId=66999140"
+                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lila-modular-stroller/5283447?keyword=66999140&color=NOMAD%20GREY&skuId=66999140",
+                            "metricsTag":"Maxi-Cosi Lila Modular Stroller in Nomad Grey"
                         },
                         "product03":{
                             "name":"Maxi-Cosi<sup>&reg;</sup> Zelia Max 5-in-1 Travel System in Nomad Grey",
-                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-zelia-max-5-in1-travel-system/5389529?keyword=68680725&color=GREY&skuId=68680725"
+                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-zelia-max-5-in1-travel-system/5389529?keyword=68680725&color=GREY&skuId=68680725",
+                            "metricsTag":"Maxi-Cosi Zelia Max 5-in-1 Travel System in Nomad Grey"
                         },
                         "product04":{
                             "name":"Maxi-Cosi<sup>&reg;</sup> Lara Ultra Compact Stroller in Nomad Grey",
-                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lara-ultra-compact-stroller/5216755?keyword=65698099&color=GREY&skuId=65698099"
+                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lara-ultra-compact-stroller/5216755?keyword=65698099&color=GREY&skuId=65698099",
+                            "metricsTag":"Maxi-Cosi Lara Ultra Compact Stroller in Nomad Grey"
                         }                        
         
                     }
@@ -157,19 +169,23 @@
                     "qualifying_products":{
                         "product01":{
                             "name":"Gerber Onesies<sup>&reg;</sup> Brand 5-Pack Short Sleeve Bodysuits in White",
-                            "link":"https://www.buybuybaby.com/store/product/gerber-onesies-reg-brand-5-pack-short-sleeve-bodysuits-in-white/125232?keyword=gerber-white-onesies"
+                            "link":"https://www.buybuybaby.com/store/product/gerber-onesies-reg-brand-5-pack-short-sleeve-bodysuits-in-white/125232?keyword=gerber-white-onesies",
+                            "metricsTag":"Gerber Onesies Brand 5-Pack Short Sleeve Bodysuits in White"
                         },
                         "product02":{
                             "name":"Gerber Onesies<sup>&reg;</sup> Brand 3-Pack Long Sleeve Bodysuits in White",
-                            "link":"https://www.buybuybaby.com/store/product/gerber-onesies-reg-brand-3-pack-long-sleeve-bodysuits-in-white/125239?keyword=gerber-white-onesies"
+                            "link":"https://www.buybuybaby.com/store/product/gerber-onesies-reg-brand-3-pack-long-sleeve-bodysuits-in-white/125239?keyword=gerber-white-onesies",
+                            "metricsTag":"Gerber Onesies Brand 3-Pack Long Sleeve Bodysuits in White"
                         },
                         "product03":{
                             "name":"Gerber<sup>&reg;</sup> 6-Pack Terry Socks in White",
-                            "link":"https://www.buybuybaby.com/store/product/gerber-reg-6-pack-terry-socks-in-white/125501?keyword=gerber-white-socks"
+                            "link":"https://www.buybuybaby.com/store/product/gerber-reg-6-pack-terry-socks-in-white/125501?keyword=gerber-white-socks",
+                            "metricsTag":"Gerber 6-Pack Terry Socks in White"
                         },
                         "product04":{
                             "name":"Gerber<sup>&reg;</sup> 2-Pack Side Snap Long Sleeve Shirts in White",
-                            "link":"https://www.buybuybaby.com/store/product/gerber-reg-2-pack-side-snap-long-sleeve-shirts-in-white/125243?keyword=gerber-side-snap-shirt"
+                            "link":"https://www.buybuybaby.com/store/product/gerber-reg-2-pack-side-snap-long-sleeve-shirts-in-white/125243?keyword=gerber-side-snap-shirt",
+                            "metricsTag":"Gerber 2-Pack Side Snap Long Sleeve Shirts in White"
                         }                        
         
                     }
@@ -200,19 +216,23 @@
                     "qualifying_products":{
                         "product01":{
                             "name":"Formula Pro<sup>&reg;</sup> Advanced Formula Dispenser",
-                            "link":" https://www.buybuybaby.com/store/product/babybrezza-reg-formula-pro-advanced-formula-dispenser/5213316?brandId=869"
+                            "link":" https://www.buybuybaby.com/store/product/babybrezza-reg-formula-pro-advanced-formula-dispenser/5213316?brandId=869",
+                            "metricsTag":"Formula Pro Advanced Formula Dispenser"
                         },
                         "product02":{
                             "name":"One Step<sup>&trade;</sup> Bottle Sterilizer and Dryer",
-                            "link":"https://www.buybuybaby.com/store/product/babybrezza-reg-one-step-bottle-sterilizer-and-dryer/1042607892?keyword=42607892"
+                            "link":"https://www.buybuybaby.com/store/product/babybrezza-reg-one-step-bottle-sterilizer-and-dryer/1042607892?keyword=42607892",
+                            "metricsTag":"One Step Bottle Sterilizer and Dryer"
                         },
                         "product03":{
                             "name":"Safe + Smart Bottle Warmer",
-                            "link":" https://www.buybuybaby.com/store/product/baby-brezza-reg-safe-smart-bottle-warmer/1060088727?keyword=60088727"
+                            "link":" https://www.buybuybaby.com/store/product/baby-brezza-reg-safe-smart-bottle-warmer/1060088727?keyword=60088727",
+                            "metricsTag":"Safe + Smart Bottle Warmer"
                         },
                         "product04":{
                             "name":"One Step<sup>&trade;</sup> Food Maker Deluxe",
-                            "link":" https://www.buybuybaby.com/store/product/baby-brezza-reg-one-step-food-maker-deluxe/1060088734?keyword=60088734"
+                            "link":" https://www.buybuybaby.com/store/product/baby-brezza-reg-one-step-food-maker-deluxe/1060088734?keyword=60088734",
+                            "metricsTag":"One Step Food Maker Deluxe"
                         }                        
         
                     }
@@ -243,19 +263,23 @@
                     "qualifying_products":{
                         "product01":{
                             "name":"OXO Tot<sup>&reg;</sup> Splash & Store Bathtub",
-                            "link":"https://www.buybuybaby.com/store/product/OXO%20Tot%20%20Splash%20amp%20Store%20Bathtub%20in%20Grey/5379122?skuId=68487492&mcid=EM_triggeredem_backinstock_rolling_allpromos"
+                            "link":"https://www.buybuybaby.com/store/product/OXO%20Tot%20%20Splash%20amp%20Store%20Bathtub%20in%20Grey/5379122?skuId=68487492&mcid=EM_triggeredem_backinstock_rolling_allpromos",
+                            "metricsTag":"OXO Tot Splash & Store Bathtub"
                         },
                         "product02":{
                             "name":"OXO Tot<sup>&reg;</sup> Diaper Caddy with Changing Mat",
-                            "link":"https://www.buybuybaby.com/store/product/oxo-tot-reg-diaper-caddy-with-changing-mat/5391553?keyword=oxo-tot-diaper-caddy"
+                            "link":"https://www.buybuybaby.com/store/product/oxo-tot-reg-diaper-caddy-with-changing-mat/5391553?keyword=oxo-tot-diaper-caddy",
+                            "metricsTag":"OXO Tot Diaper Caddy with Changing Mat"
                         },
                         "product03":{
                             "name":"OXO Tot<sup>&reg;</sup> Stand Up Bath Toy Bin",
-                            "link":"https://www.buybuybaby.com/store/product/oxo-tot-reg-stand-up-bath-toy-bin/5382597?keyword=oxo-tot-bath-toy-bin"
+                            "link":"https://www.buybuybaby.com/store/product/oxo-tot-reg-stand-up-bath-toy-bin/5382597?keyword=oxo-tot-bath-toy-bin",
+                            "metricsTag":"OXO Tot Stand Up Bath Toy Bin"
                         },
                         "product04":{
                             "name":"OXO Tot<sup>&reg;</sup> Perfect Pull<sup>&trade;</sup> Wipes Dispenser",
-                            "link":" https://www.buybuybaby.com/store/product/oxo-tot-reg-perfect-pull-trade-wipes-dispenser/3339730?keyword=oxo-tot-wipes-dispenser"
+                            "link":" https://www.buybuybaby.com/store/product/oxo-tot-reg-perfect-pull-trade-wipes-dispenser/3339730?keyword=oxo-tot-wipes-dispenser",
+                            "metricsTag":"OXO Tot Perfect Pull Wipes Dispenser"
                         }                        
         
                     }
@@ -286,19 +310,23 @@
                     "qualifying_products":{
                         "product01":{
                             "name":"Pampers<sup>&reg;</sup> Swaddlers<sup>&trade;</sup> Size 0 Super Pack Diapers, 84-Ct.",
-                            "link":"https://www.buybuybaby.com/store/product/pampers-reg-swaddlers-trade-84-count-size-0-super-pack-diapers/1020148621?categoryId=32539"
+                            "link":"https://www.buybuybaby.com/store/product/pampers-reg-swaddlers-trade-84-count-size-0-super-pack-diapers/1020148621?categoryId=32539",
+                            "metricsTag":"Pampers Swaddlers Size 0 Super Pack Diapers, 84-Ct."
                         },
                         "product02":{
                             "name":"Pampers<sup>&reg;</sup> Swaddlers<sup>&trade;</sup> Size 1 Pack Diapers, 164-Ct.",
-                            "link":" https://www.buybuybaby.com/store/product/pampers-reg-swaddlers-trade-164-count-size-1-pack-diapers/5291288?categoryId=32539"
+                            "link":" https://www.buybuybaby.com/store/product/pampers-reg-swaddlers-trade-164-count-size-1-pack-diapers/5291288?categoryId=32539",
+                            "metricsTag":"Pampers Swaddlers Size 1 Pack Diapers, 164-Ct."
                         },
                         "product03":{
                             "name":"Dreft High Efficiency Liquid Detergent, 150 Oz. (96 Loads)",
-                            "link":" https://www.buybuybaby.com/store/product/dreft-high-efficiency-liquid-detergent-in-150-ounces-96-loads/1040847726?categoryId=32413"
+                            "link":" https://www.buybuybaby.com/store/product/dreft-high-efficiency-liquid-detergent-in-150-ounces-96-loads/1040847726?categoryId=32413",
+                            "metricsTag":"Dreft High Efficiency Liquid Detergent, 150 Oz. (96 Loads)"
                         },
                         "product04":{
                             "name":"Dreft Blissfuls<sup>&trade;</sup> Baby Fresh In-Wash Scent Booster, 14.8 Oz.",
-                            "link":" https://www.buybuybaby.com/store/product/dreft-blissfuls-trade-14-8-oz-baby-fresh-in-wash-scent-booster/5204658?categoryId=32413 "
+                            "link":" https://www.buybuybaby.com/store/product/dreft-blissfuls-trade-14-8-oz-baby-fresh-in-wash-scent-booster/5204658?categoryId=32413 ",
+                            "metricsTag":"Dreft Blissfuls Baby Fresh In-Wash Scent Booster, 14.8 Oz."
                         }                        
         
                     }
@@ -329,19 +357,23 @@
                     "qualifying_products":{
                         "product01":{
                             "name":"Baby Jogger<sup>&reg;</sup> city suite<sup>&trade;</sup> Multi-Level Playard",
-                            "link":" https://www.buybuybaby.com/store/product/baby-jogger-reg-city-suite-trade-multi-level-playard/5450386"
+                            "link":" https://www.buybuybaby.com/store/product/baby-jogger-reg-city-suite-trade-multi-level-playard/5450386",
+                            "metricsTag":"Baby Jogger city suite Multi-Level Playard"
                         },
                         "product02":{
                             "name":"Baby Jogger<sup>&reg;</sup> city sway<sup>&trade;</sup> Rocker",
-                            "link":" https://www.buybuybaby.com/store/product/baby-jogger-reg-city-sway-trade-rocker-graphite/5450387"
+                            "link":" https://www.buybuybaby.com/store/product/baby-jogger-reg-city-sway-trade-rocker-graphite/5450387",
+                            "metricsTag":"Baby Jogger city sway Rocker"
                         },
                         "product03":{
                             "name":"Baby Jogger<sup>&reg;</sup> city bistro<sup>&trade;</sup> High Chair",
-                            "link":" https://www.buybuybaby.com/store/product/baby-jogger-reg-city-bistro-trade-high-chair-in-graphite/5450388"
+                            "link":" https://www.buybuybaby.com/store/product/baby-jogger-reg-city-bistro-trade-high-chair-in-graphite/5450388",
+                            "metricsTag":"Baby Jogger city bistro High Chair"
                         },
                         "product04":{
                             "name":"Baby Jogger<sup>&reg;</sup> City Mini<sup>&reg;</sup> GT2 Travel System",
-                            "link":" https://www.buybuybaby.com/store/product/baby-jogger-city-mini-gt2-travel-system-in-jet/5372388"
+                            "link":" https://www.buybuybaby.com/store/product/baby-jogger-city-mini-gt2-travel-system-in-jet/5372388",
+                            "metricsTag":"Baby Jogger City Mini GT2 Travel System"
                         }                        
         
                     }
@@ -401,6 +433,7 @@
             console.log(key,data);
             Object.keys(data).forEach(function (dataKey,i) {
                 $('.qualifying_products').find('.trm-product-mod .trm-product').eq(i).find('a').attr('href',data[dataKey].link);
+                $('.qualifying_products').find('.trm-product-mod .trm-product').eq(i).find('a').attr('data-name',data[dataKey].metricsTag);
                 $('.qualifying_products').find('.trm-product-mod .trm-product').eq(i).find('.trm-product-img img').attr('src','img/'+key+"/"+dataKey+'.jpg');
                 //$('.qualifying_products').find('.trm-product-mod .trm-product').eq(i).find('.trm-product-img img').attr('alt',dataKey);
                 $('.qualifying_products').find('.trm-product-mod .trm-product').eq(i).find('.trm-product-title').html(data[dataKey].name);
