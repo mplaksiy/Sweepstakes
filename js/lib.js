@@ -114,19 +114,19 @@
                     "qualifying_products":{
                         "product01":{
                             "name":"Maxi-Cosi<sup>&reg;</sup> Lila Modular Stroller in Nomad Black",
-                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lila-modular-stroller/5283447?keyword=lila-modular-stroller-in-nomad-black&color=NOMAD%20BLACK&skuId=66999126"
+                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lila-modular-stroller/5283447?keyword=66999126&color=NOMAD%20BLACK&skuId=66999126"
                         },
                         "product02":{
                             "name":"Maxi-Cosi<sup>&reg;</sup> Lila Modular Stroller in Nomad Grey",
-                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lila-modular-stroller/5283447?keyword=lila-modular-stroller-in-nomad-black&color=NOMAD%20BLACK&skuId=66999126"
+                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lila-modular-stroller/5283447?keyword=66999140&color=NOMAD%20GREY&skuId=66999140"
                         },
                         "product03":{
                             "name":"Maxi-Cosi<sup>&reg;</sup> Zelia Max 5-in-1 Travel System in Nomad Grey",
-                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-zelia-max-5-in1-travel-system/5389529?keyword=zelia-max-5-in-1-modular-stroller-in-nomad-black-umber"
+                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-zelia-max-5-in1-travel-system/5389529?keyword=68680725&color=GREY&skuId=68680725"
                         },
                         "product04":{
                             "name":"Maxi-Cosi<sup>&reg;</sup> Lara Ultra Compact Stroller in Nomad Grey",
-                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lara-ultra-compact-stroller/5216755?keyword=lara-ultra-compact-stroller-in-nomad-grey&color=GREY&skuId=65698099"
+                            "link":"https://www.buybuybaby.com/store/product/maxi-cosi-reg-lara-ultra-compact-stroller/5216755?keyword=65698099&color=GREY&skuId=65698099"
                         }                        
         
                     }
@@ -151,7 +151,7 @@
                     "lifeStlye":{
                         "headline":"Week 4: Gerber<sup>&reg;</sup>",
                         "period":"Feb. 19 – 25, 2020",
-                        "paragraph":"Gerber<sup>&reg;</sup> brings affordable quality and cozy essentials to your newborn's wardrobe. Our 100% cotton Onesies<sup>&reg;</sup> bodysuits and side snap shirts are registry must-haves—perfect for layering and keeping baby comfy!.",
+                        "paragraph":"Gerber<sup>&reg;</sup> brings affordable quality and cozy essentials to your newborn's wardrobe. Our 100% cotton Onesies<sup>&reg;</sup> bodysuits and side snap shirts are registry must-haves—perfect for layering and keeping baby comfy!",
                         "imageAlt":" Mom smiles at her happy baby, dressed a white Gerber onesie."
                     },
                     "qualifying_products":{
@@ -195,7 +195,7 @@
                         "headline":"Week 5: Baby Brezza<sup>&reg;</sup>",
                         "period":"Feb. 26 – Mar. 3, 2020",
                         "paragraph":"From instantly making formula bottles to blending homemade baby food, Baby Brezza<sup>&reg;</sup>'s unique appliances make feeding easier! Save 30 minutes a day feeding your baby so you can spend more time bonding with your little one.",
-                        "imageAlt":" A jar of strawberry baby food next a Baby Brezza appliance with chopped strawberries inside."
+                        "imageAlt":"Baby Brezza One Step Bottle Sterilizer and Dryer."
                     },
                     "qualifying_products":{
                         "product01":{
