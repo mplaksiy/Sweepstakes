@@ -107,7 +107,7 @@
                     },
                     "lifeStlye":{
                         "headline":"Week 3: Maxi-Cosi<sup>&reg;</sup>",
-                        "period":"Feb. 12 – Feb. 18, 2020",
+                        "period":"Feb. 12 – 18, 2020",
                         "paragraph":"Maxi-Cosi<sup>&reg;</sup> strollers, car seats, and travel systems are fully equipped for all that parenthood has in store! Our products' superior comfort and safety features make your tiny traveler's first ride first class.",
                         "imageAlt":" A family of four happily walks on the airplane runway, pushing their infant in a Maxi-Cosi stroller."
                     },
@@ -150,7 +150,7 @@
                     },
                     "lifeStlye":{
                         "headline":"Week 4: Gerber<sup>&reg;</sup>",
-                        "period":"Feb. 19 – Feb. 25, 2020",
+                        "period":"Feb. 19 – 25, 2020",
                         "paragraph":"Gerber<sup>&reg;</sup> brings affordable quality and cozy essentials to your newborn's wardrobe. Our 100% cotton Onesies<sup>&reg;</sup> bodysuits and side snap shirts are registry must-haves—perfect for layering and keeping baby comfy!.",
                         "imageAlt":" Mom smiles at her happy baby, dressed a white Gerber onesie."
                     },
@@ -236,7 +236,7 @@
                     },
                     "lifeStlye":{
                         "headline":"Week 6: OXO Tot<sup>&reg;</sup>",
-                        "period":"Mar. 4 – Mar. 10, 2020",
+                        "period":"Mar. 4 – 10, 2020",
                         "paragraph":"OXO Tot<sup>&reg;</sup> designs award-winning, problem-solving essentials so you can care for your little one with confidence and ease. From a one-hand wipes dispenser to a grow-with-me bathtub, our products let parents focus on the fun stuff.",
                         "imageAlt":" Baby reaches for wipes dispenser in the OXO Tot Diaper Caddy."
                     },
