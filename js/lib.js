@@ -414,7 +414,7 @@
            $('.hero').find('.trm-pov-content h2').html(data.headline);
            $('.hero').find('.trm-pov-content p').html(data.paragraph);
            $('.hero').find('.trm-pov-img .trm-week h4').html(week);
-           screenSize>767?$('.hero').find('.trm-pov-img img').attr('src','img/'+key+'/pov.jpg'):$('.hero').find('.trm-pov-img img').attr('src','img/'+key+'pov-mob.jpg');
+           screenSize>767?$('.hero').find('.trm-pov-img img').attr('src','img/'+key+'/pov.jpg'):$('.hero').find('.trm-pov-img img').attr('src','img/'+key+'/pov-mob.jpg');
            $('.hero').find('.trm-pov-img img').attr('alt',data.imageAlt);
         },
         findHowToEnter:function(key,data){            
