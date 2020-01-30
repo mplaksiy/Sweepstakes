@@ -303,7 +303,7 @@
                     },
                     "lifeStlye":{
                         "headline":"Week 7: Dreft And Pampers<sup>&reg;</sup>",
-                        "period":"Mar. 11 – Mar. 17, 2020",
+                        "period":"Mar. 11 – 17, 2020",
                         "paragraph":"Wrap your new arrival in super-soft comfort! Dreft laundry products are gentle on baby's skin and tough on stains, and Pampers<sup>&reg;</sup> Swaddlers<sup>&trade;</sup> are trusted by hospitals, doctors, and moms.",
                         "imageAlt":"Close-up of a sleeping newborn resting on a soft blanket in someone's lap."
                     },
@@ -350,9 +350,9 @@
                     },
                     "lifeStlye":{
                         "headline":"Week 8: Baby Jogger<sup>&reg;</sup>",
-                        "period":"Mar. 18 – Mar. 24, 2020",
+                        "period":"Mar. 18 – 24, 2020",
                         "paragraph":"We design strollers, but we're also parents! We offer solutions that help families get out of the house and explore. Our new city home collection is geared toward simplicity and better storability, for easy days at home or away.",
-                        "imageAlt":" The Baby Jogger city home collection, featuring a high chair, playard, and rocker and bouncer."
+                        "imageAlt":"The Baby Jogger city home collection, featuring a high chair, playard, and rocker and bouncer. In-image text reads, Week 08."
                     },
                     "qualifying_products":{
                         "product01":{
