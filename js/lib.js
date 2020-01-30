@@ -70,7 +70,7 @@
                         "headline":"Week 2: évolur",
                         "period":"Feb. 5 - 11, 2020",
                         "paragraph":"Bring your nursery dreams to life with European-inspired évolur furniture. Designed to grow with your child from babyhood to beyond, évolur collections offer a unique blend of affordable luxury and simple functionality.",
-                        "imageAlt":" "
+                        "imageAlt":"Evolur Julienne Crib and matching furniture in a sophisticated grey nursery."
                     },
                     "qualifying_products":{
                         "product01":{
