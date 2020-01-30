@@ -341,7 +341,7 @@
                     "hero":{
                         "headline":"A Chance To Win Your Dream Registry? Oh, Baby!",
                         "paragraph":"We've partnered with a few of our favorite brands to give you the chance to win buybuy BABY<sup>&reg;</sup> Gift Cards and make room for baby! Check back each week for qualifying products to add to your registry during each Weekly Entry Period to be automatically entered in that week's drawing and the Grand Prize drawing.",
-                        "imageAlt":" Mom happily pushes her baby in a Baby Jogger stroller. In-image text reads, Week 08."
+                        "imageAlt":"The Baby Jogger city home collection, featuring a high chair, playard, and rocker and bouncer. In-image text reads, Week 08."
                     },
                     "howToEnter":{
                         "headline":"This Week's Qualifying Products",
@@ -352,7 +352,7 @@
                         "headline":"Week 8: Baby Jogger<sup>&reg;</sup>",
                         "period":"Mar. 18 – 24, 2020",
                         "paragraph":"We design strollers, but we're also parents! We offer solutions that help families get out of the house and explore. Our new city home collection is geared toward simplicity and better storability, for easy days at home or away.",
-                        "imageAlt":"The Baby Jogger city home collection, featuring a high chair, playard, and rocker and bouncer. In-image text reads, Week 08."
+                        "imageAlt":"Mom leans over Baby Jogger playard, looking down at her smiling baby."
                     },
                     "qualifying_products":{
                         "product01":{
