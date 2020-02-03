@@ -391,7 +391,7 @@
                 var currYear = date.getUTCFullYear();
 
                 var newDate = currMonth + "/" + currDay + "/" + currYear;
-                var currentDate = newDate;
+                var currentDate = Date.parse(newDate);
     
                 if((currentDate >= startDate) && (currentDate <= endDate)){
                     console.log(key);
