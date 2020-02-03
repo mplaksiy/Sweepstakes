@@ -413,7 +413,7 @@
             }
             else{
                 var today = new Date();
-                app.findWeeklyData(Date.parse(today));
+                app.findWeeklyData(today);
             }
         },
         findHero:function(key,data,week){
