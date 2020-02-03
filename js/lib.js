@@ -385,7 +385,13 @@
             Object.keys(app.weeklyData).forEach(function (key) {
                 var startDate = Date.parse(app.weeklyData[key].startDate);
                 var endDate = Date.parse(app.weeklyData[key].endDate);
-                var currentDate = date;
+                
+                var currMonth = date.getUTCMonth() + 1;
+                var currDay = date.getUTCDate();
+                var currYear = date.getUTCFullYear();
+
+                var newDate = currMonth + "/" + currDay + "/" + currYear;
+                var currentDate = newDate;
     
                 if((currentDate >= startDate) && (currentDate <= endDate)){
                     console.log(key);
