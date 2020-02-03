@@ -383,8 +383,8 @@
         },
         findWeeklyData: function (date){
             Object.keys(app.weeklyData).forEach(function (key) {
-                var startDate = new Date(app.weeklyData[key].startDate);
-                var endDate = new Date(app.weeklyData[key].endDate);
+                var startDate = Date.parse(app.weeklyData[key].startDate);
+                var endDate = Date.parse(app.weeklyData[key].endDate);
                 var currentDate = date;
     
                 if((currentDate >= startDate) && (currentDate <= endDate)){
@@ -407,7 +407,7 @@
             }
             else{
                 var today = new Date();
-                app.findWeeklyData(today);
+                app.findWeeklyData(Date.parse(today));
             }
         },
         findHero:function(key,data,week){
