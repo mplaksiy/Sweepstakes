@@ -453,6 +453,12 @@
 
    app.findLinkDate();
 
+   $(window).on('resize',function(){
+        weekDataset = "";
+        screenSize = window.screen.width;
+        app.findLinkDate();
+   });
+
     
 
     
