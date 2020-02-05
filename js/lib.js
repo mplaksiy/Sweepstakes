@@ -432,7 +432,7 @@
             $('.lifestyle').find('.trm-content-left h2').html(data.headline);
             $('.lifestyle').find('.trm-content-left h5').html(data.period);
             $('.lifestyle').find('.trm-content-left p').html(data.paragraph);
-            screenSize>767?$('.lifestyle').find('.trm-content-right img').attr('src','img/'+key+'/life-style.jpg'):$('.lifestyle').find('.trm-pov-img img').attr('src','img/'+key+'life-style-mob.jpg');
+            screenSize>767?$('.lifestyle').find('.trm-content-right img').attr('src','img/'+key+'/life-style.jpg'):$('.lifestyle').find('.trm-content-right img').attr('src','img/'+key+'life-style-mob.jpg');
             $('.lifestyle').find('.trm-content-right img').attr('alt',data.imageAlt);
         },
         findQualifyingProducts: function(key, data){
