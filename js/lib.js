@@ -447,7 +447,6 @@
             $('.weekly_brands').find('.trm-brand').find('a').removeClass('active');
             $('.weekly_brands').find('.trm-brand').eq(parseInt(key.slice(-2))-1).find('a').addClass('active');
             var currentBrandSource = $('.weekly_brands').find('.trm-brand').eq(parseInt(key.slice(-2))-1).find('a .trm-brand-img img').attr('src').split('.')[0];
-
             if(currentBrandSource.search('-hover')==-1)$('.weekly_brands').find('.trm-brand').eq(parseInt(key.slice(-2))-1).find('a .trm-brand-img img').attr('src',currentBrandSource+'-hover.png');
         }
    }
