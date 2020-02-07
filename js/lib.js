@@ -257,7 +257,7 @@
                     "lifeStlye":{
                         "headline":"Week 6: OXO Tot<sup>&reg;</sup>",
                         "period":"Mar. 4 – 10, 2020",
-                        "paragraph":"OXO Tot<sup>&reg;</sup> designs award-winning, problem-solving essentials so you can care for your little one with confidence and ease. From a one-hand wipes dispenser to a grow-with-me bathtub, our products let parents focus on the fun stuff.",
+                        "paragraph":"OXO Tot<sup>&reg;</sup> designs award-winning, problem-solving essentials so you can care for your little one with confidence and ease. From a one-handed wipes dispenser to a grow-with-me bathtub, our products let parents focus on the fun stuff.",
                         "imageAlt":" Baby reaches for wipes dispenser in the OXO Tot Diaper Caddy."
                     },
                     "qualifying_products":{
@@ -277,7 +277,7 @@
                             "metricsTag":"OXO Tot Stand Up Bath Toy Bin"
                         },
                         "product04":{
-                            "name":"OXO Tot<sup>&reg;</sup> Perfect Pull<sup>&trade;</sup> Wipes Dispenser",
+                            "name":"OXO Tot<sup>&reg;</sup> PerfectPull<sup>&trade;</sup> Wipes Dispenser",
                             "link":" https://www.buybuybaby.com/store/product/oxo-tot-reg-perfect-pull-trade-wipes-dispenser/3339730?keyword=oxo-tot-wipes-dispenser",
                             "metricsTag":"OXO Tot Perfect Pull Wipes Dispenser"
                         }                        
