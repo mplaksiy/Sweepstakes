@@ -363,7 +363,7 @@
                         "product02":{
                             "name":"Baby Jogger<sup>&reg;</sup> city sway<sup>&trade;</sup> Rocker",
                             "link":" https://www.buybuybaby.com/store/product/baby-jogger-reg-city-sway-trade-rocker-graphite/5450387",
-                            "metricsTag":"Baby Jogger city sway Rocker"
+                            "metricsTag":"Baby Jogger<sup>&reg;</sup> city sway<sup>&trade;</sup> 2-in-1 Rocker & Bouncer"
                         },
                         "product03":{
                             "name":"Baby Jogger<sup>&reg;</sup> city bistro<sup>&trade;</sup> High Chair",
