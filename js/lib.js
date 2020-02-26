@@ -340,7 +340,7 @@
                     "week":"WEEK<br><span>08</span>",
                     "hero":{
                         "headline":"A Chance To Win Your Dream Registry? Oh, Baby!",
-                        "paragraph":"We've partnered with a few of our favorite brands to give you the chance to win buybuy BABY<sup>&reg;</sup> Gift Cards and make room for baby! Check back each week for qualifying products to add to your registry during each Weekly Entry Period to be automatically entered in that week's drawing and the Grand Prize drawing.",
+                        "paragraph":"We've partnered with a few of our favorite brands to give you the chance to win buybuy BABY<sup>&reg;</sup> Gift Cards and make room for baby! Check out the qualifying products to add to your registry during this Weekly Entry Period to be automatically entered in our final weekly drawing and the Grand Prize drawing.",
                         "imageAlt":"The Baby Jogger city home collection, featuring a high chair, playard, and rocker and bouncer. In-image text reads, Week 08."
                     },
                     "howToEnter":{
