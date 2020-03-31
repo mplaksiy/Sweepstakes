@@ -238,4 +238,5 @@ sup{font-size:60%;top:-4px;position:relative}
 
 .default .trm-pov-wrapper{padding-bottom: 0px;border-bottom:0px solid #888;}
 .default .trm-pov-content .trm-section-title{text-align: center;}
+.default .trm-section-title p{font-size: 1.35vw;}
 }
