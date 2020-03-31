@@ -4,6 +4,20 @@
 
    var app = {
         weeklyData:{
+            "default":{
+                "startDate":"",
+                "endDate":"",
+                "weekData":{
+                    "week":"default",
+                    "hero":{
+                        "headline":"Our Registry Sweepstakes Has Ended!",
+                        "paragraph":"Are you the Grand Prize winner? If so, you'll receive an email on or around March 30, 2020 letting you know the good news. Good luck! You can continue creating your perfect registry to prepare for your new bundle of joy. Now check out what's new from buybuy BABY<sup>&reg;</sup>.",
+                        "imageAlt":" ",
+                        "ctaText": "Create your registry"
+                    }
+    
+                }
+            },
             "week01":{
                 "startDate":"01/29/2020",
                 "endDate":"02/04/2020",
@@ -382,6 +396,7 @@
             }
         },
         findWeeklyData: function (date){
+            var weekDataType = 'default';
             Object.keys(app.weeklyData).forEach(function (key) {
                 var startDate = Date.parse(app.weeklyData[key].startDate);
                 var endDate = Date.parse(app.weeklyData[key].endDate);
@@ -394,16 +409,21 @@
                 var currentDate = Date.parse(newDate);
     
                 if((currentDate >= startDate) && (currentDate <= endDate)){
-                    console.log(key);
+                    //console.log(key);
                     //console.log(app.weeklyData[item].endDate);
+                    weekDataType = 'not default';
                     weekDataset = app.weeklyData[key].weekData;
                     app.findHero(key,weekDataset.hero,weekDataset.week);
                     app.findHowToEnter(key,weekDataset.howToEnter);
                     app.findLifestyle(key,weekDataset.lifeStlye);
                     app.findQualifyingProducts(key,weekDataset.qualifying_products);
 
-                }    
-            });    
+                } 
+            }); 
+            if(weekDataType == 'default'){
+                app.findHero('default',app.weeklyData.default.weekData.hero,'');
+                $('section.trm-container').addClass('default');
+            }   
         },
         findLinkDate:function(){
             var link = window.location.href;
@@ -420,8 +440,12 @@
            $('.hero').find('.trm-pov-content h2').html(data.headline);
            $('.hero').find('.trm-pov-content p').html(data.paragraph);
            $('.hero').find('.trm-pov-img .trm-week h4').html(week);
-           screenSize>767?$('.hero').find('.trm-pov-img img').attr('src','img/'+key+'/pov.jpg'):$('.hero').find('.trm-pov-img img').attr('src','img/'+key+'/pov-mob.jpg');
+           screenSize>680?$('.hero').find('.trm-pov-img img').attr('src','img/'+key+'/pov.jpg'):$('.hero').find('.trm-pov-img img').attr('src','img/'+key+'/pov-mob.jpg');
            $('.hero').find('.trm-pov-img img').attr('alt',data.imageAlt);
+           if(key="default"){
+                $('.trm-registry').remove();
+                $('.trm-pov-content .trm-section-title').append('<a href="https://www.buybuybaby.com/store/giftregistry/createRegistryForm?regType=BA1" class="trm-registry trm-track" target="_blank" data-type="link" data-id="2" data-name="Create your registry"> Create your registry</a>');
+           }
         },
         findHowToEnter:function(key,data){            
             $('.howtoenter').find('.trm-content-left h2').html(data.headline);
