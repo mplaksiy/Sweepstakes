@@ -142,7 +142,7 @@ sup{font-size:60%;top:-4px;position:relative}
 
 .default .howtoenter,.default .lifestyle,.default .qualifying_products,.default .weekly_brands,.default .trm-pov-img .trm-week{display: none;}
 .default .trm-pov-wrapper{padding-bottom: 40px;border-bottom:1px solid #888;}
-
+.default .trm-section-title p{font-size: 16px;}
 @media (max-width:1262px){
     .trm-container{padding:0 5px}
 }
@@ -161,7 +161,7 @@ sup{font-size:60%;top:-4px;position:relative}
 .trm-brand .trm-week{font-size:1.5vw}
 .trm-week span{font-size:2.5vw}
 .trm-pov-content .trm-section-title{padding:0 35px}
-
+.default .trm-section-title p{font-size: 1.35vw;}
 }
 @media (max-width: 767px) {
 .trm-return{font-size:2.2vw}
