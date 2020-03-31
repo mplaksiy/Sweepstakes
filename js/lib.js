@@ -11,7 +11,7 @@
                     "week":"default",
                     "hero":{
                         "headline":"Our Registry Sweepstakes Has Ended!",
-                        "paragraph":"Are you the Grand Prize winner? If so, you'll receive an email on or around March 30, 2020 letting you know the good news. Good luck! You can continue creating your perfect registry to prepare for your new bundle of joy. Now check out what's new from buybuy BABY<sup>&reg;</sup>.",
+                        "paragraph":"Are you the Grand Prize winner? If so, you'll receive an email on or around March 30, 2020 letting you know the good news.<br/><br/> Good luck! You can continue creating your perfect registry to prepare for your new bundle of joy. Now check out what's new from buybuy BABY<sup>&reg;</sup>.",
                         "imageAlt":" ",
                         "ctaText": "Create your registry"
                     }
